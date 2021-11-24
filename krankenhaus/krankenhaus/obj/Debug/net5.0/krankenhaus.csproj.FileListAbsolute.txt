@@ -1,0 +1,16 @@
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\bin\Debug\net5.0\krankenhaus.exe
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\bin\Debug\net5.0\krankenhaus.deps.json
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\bin\Debug\net5.0\krankenhaus.runtimeconfig.json
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\bin\Debug\net5.0\krankenhaus.runtimeconfig.dev.json
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\bin\Debug\net5.0\krankenhaus.dll
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\bin\Debug\net5.0\ref\krankenhaus.dll
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\bin\Debug\net5.0\krankenhaus.pdb
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\obj\Debug\net5.0\krankenhaus.csproj.AssemblyReference.cache
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\obj\Debug\net5.0\krankenhaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\obj\Debug\net5.0\krankenhaus.AssemblyInfoInputs.cache
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\obj\Debug\net5.0\krankenhaus.AssemblyInfo.cs
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\obj\Debug\net5.0\krankenhaus.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\obj\Debug\net5.0\krankenhaus.dll
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\obj\Debug\net5.0\ref\krankenhaus.dll
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\obj\Debug\net5.0\krankenhaus.pdb
+C:\Users\Arnaud\source\repos\krankenhaus\krankenhaus\obj\Debug\net5.0\krankenhaus.genruntimeconfig.cache
